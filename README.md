@@ -13,7 +13,7 @@ This project simulates a fitness vending machine with a user-friendly interface 
 
 ## Installation and Run
 1. Open **Qt Creator**.
-2. Open **Terminal** and type **git clone https://github.com/Almons65/Fitness_Vending_Machine_QT.git**
+2. Open **"Terminal"** and type **"git clone https://github.com/Almons65/Fitness_Vending_Machine_QT.git"**
 3. Open the **"CMakeLists.txt"** project.
 4. Build and run the application.
 
