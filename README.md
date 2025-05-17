@@ -1,9 +1,9 @@
-# Fitness Vending Machine
+# Fitness Vending Machine Simulation
 
 
 ## Description
 
-This project simulates a fitness vending machine with a user-friendly interface using QtSql for data storage.
+This project simulates a simulation of fitness vending machine with a user-friendly interface using QtSql for data storage.
 
 ## Features
 - QTSql database for product storage, change box storage, and collection box storage.
