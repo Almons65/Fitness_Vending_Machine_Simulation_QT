@@ -21,7 +21,7 @@ This project simulates a simulation of fitness vending machine with a user-frien
 DONE!
 
 
-Screenshots:
+## Screenshots:
 
 
 Main Screen:
